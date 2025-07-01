@@ -12,4 +12,5 @@ To set up and run the project locally:
 Activate the virtual environment:
 
 On Windows:
+```bash
 venv\Scripts\activate
