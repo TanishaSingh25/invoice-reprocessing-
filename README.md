@@ -9,3 +9,7 @@ To set up and run the project locally:
   ```bash
   python -m venv venv
 
+Activate the virtual environment:
+
+On Windows:
+venv\Scripts\activate
