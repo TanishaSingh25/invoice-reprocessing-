@@ -1,7 +1,11 @@
 ﻿# invoice-reprocessing-
 
 
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
+## 🔧 Setup and Run Instructions
+
+To set up and run the project locally:
+
+- Create a virtual environment:
+  ```bash
+  python -m venv venv
+
