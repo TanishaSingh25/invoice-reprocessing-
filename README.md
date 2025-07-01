@@ -12,4 +12,9 @@ To set up and run the project locally:
 - Activate the virtual environment:
 ```bash
 venv\Scripts\activate
+```
 
+- Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
